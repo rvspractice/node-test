@@ -1,0 +1,24 @@
+# Dependency directories
+node_modules/
+vendor/
+.env
+
+# Build files
+dist/
+build/
+*.exe
+*.dll
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
