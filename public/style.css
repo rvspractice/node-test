@@ -1,0 +1,14 @@
+h1 {
+    color: lightskyblue;
+}
+
+.explain {
+    color: lightcoral;
+    margin: 1rem;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.fields {
+    margin: 1rem;
+}
